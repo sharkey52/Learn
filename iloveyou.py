@@ -1,5 +1,7 @@
 import time
 
+#this fucking workssssssss!!!!!!!
+
 print('i ', end = ' ')
 time.sleep(2)
 print('love ', end = ' ')
