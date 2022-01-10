@@ -1,6 +1,6 @@
 import time
 
-#this fucking workssssssss!!!!!!!
+#this fucking sucks
 
 print('i ', end = ' ')
 time.sleep(2)
