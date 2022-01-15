@@ -9,7 +9,8 @@ bottles = {'whiskey':28,
         'white rum':28,
         'tripplesec':28,
         'another drink':28}
-
+#this is our littlle addition
+o
 recipe = whiskeysour
 
 def checkbottles(bottles,recipe):
