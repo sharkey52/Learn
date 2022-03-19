@@ -3,6 +3,7 @@ mojito = {'white rum':'50ml','lime juice':'a little bit','lemon juice':'a little
 pornstar = {'vanilla_vodka':'50ml','passionfruit juice':'a little bit','sugar syrup':'a little bit'}
 oldfashioned = {'whiskey','aromatic bitters','sugar syrup'}
 whiskeysour = {'whiskey':'50ml','lemon juice':'a little bit','sugar syrup':'a little bit'}
+vodkalemonade = {'vodka':'25ml','lemonade':'a little bit'}
 
 bottles = {'whiskey':28,
         'vanilla vodka':28,
