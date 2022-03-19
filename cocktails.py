@@ -11,8 +11,8 @@ bottles = {'whiskey':28,
         'tripplesec':28,
         'another drink':28}
 #this is our littlle addition
-o
-recipe = whiskeysour
+
+recipe = pornstar
 
 def checkbottles(bottles,recipe):
     for item in recipe:
